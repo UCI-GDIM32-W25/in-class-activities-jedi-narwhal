@@ -19,4 +19,4 @@
   7. It should be _playerTransform instead.
 
 ### Activity 3
-link: https://docs.google.com/document/d/11NYqSVvzWFbjYSesEhZULsuZtHzjsLqqcApzmbzIQNQ/edit?tab=t.0
+[MG1 breakdown Google doc](https://docs.google.com/document/d/11NYqSVvzWFbjYSesEhZULsuZtHzjsLqqcApzmbzIQNQ/edit?tab=t.0)
