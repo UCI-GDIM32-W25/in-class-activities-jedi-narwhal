@@ -1,4 +1,4 @@
-# GDIM32 In Class Activities
+u# GDIM32 In Class Activities
 
 ## Week 1
 ### Activity 1: 
@@ -25,4 +25,4 @@
 
 
 ### Activity 2
-[MG2 commit history](https://github.com/UCI-GDIM32-W25/mg2-oop-review-jedi-narwhal)
+[MG2 commit history](https://github.com/UCI-GDIM32-W25/mg2-oop-review-jedi-narwhal) I setup the Unitye editor with all the game objects and all its components. I also outlined my classes in the code and added comments to know what to code.
