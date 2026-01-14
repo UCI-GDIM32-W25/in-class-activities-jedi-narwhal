@@ -17,10 +17,12 @@
   5. It prints the number 10 before the Update method.
   6. It should be _playerTransform variable not the type.
   7. It should be _playerTransform instead.
+### Activity 3
+[MG1 breakdown Google doc](https://docs.google.com/document/d/11NYqSVvzWFbjYSesEhZULsuZtHzjsLqqcApzmbzIQNQ/edit?tab=t.0)
 ## Week 2
 ### Activity 1: 
 ![IMG_4EB6424F25B5-1](https://github.com/user-attachments/assets/56510163-4f1a-499d-85ec-fed7292e5abd)
 
 
 ### Activity 2
-
+[MG2 commit history](https://github.com/UCI-GDIM32-W25/mg2-oop-review-jedi-narwhal)
