@@ -20,25 +20,23 @@
 ### Activity 3
 [MG1 breakdown Google doc](https://docs.google.com/document/d/11NYqSVvzWFbjYSesEhZULsuZtHzjsLqqcApzmbzIQNQ/edit?tab=t.0)
 
-## Week 3
-### Activity 0: 
+## Week 2
+
+### Activity 1: 
+![IMG_4EB6424F25B5-1](https://github.com/user-attachments/assets/56510163-4f1a-499d-85ec-fed7292e5abd)
+
+
+### Activity 2
+[MG2 commit history](https://github.com/UCI-GDIM32-W25/mg2-oop-review-jedi-narwhal/commits/main/) 
+ 
+ I setup the Unity editor with all the game objects and all its components. I also outlined my methods in the code and added comments to know what to code.
+
+ ## Week 3
+ ### Activity 0: 
 My partner is named Minjoo.
-
-### Activity 1: 
-![IMG_4EB6424F25B5-1](https://github.com/user-attachments/assets/56510163-4f1a-499d-85ec-fed7292e5abd)
-
-
-### Activity 2
-[MG2 commit history](https://github.com/UCI-GDIM32-W25/mg2-oop-review-jedi-narwhal/commits/main/) 
- 
- I setup the Unity editor with all the game objects and all its components. I also outlined my methods in the code and added comments to know what to code.
-
- ## Week 2
-### Activity 1: 
-![IMG_4EB6424F25B5-1](https://github.com/user-attachments/assets/56510163-4f1a-499d-85ec-fed7292e5abd)
+### Activity 1 and Activity 2:
+all code was pushed to the repo.
+### Activity 3:
 
 
-### Activity 2
-[MG2 commit history](https://github.com/UCI-GDIM32-W25/mg2-oop-review-jedi-narwhal/commits/main/) 
- 
- I setup the Unity editor with all the game objects and all its components. I also outlined my methods in the code and added comments to know what to code.
+
