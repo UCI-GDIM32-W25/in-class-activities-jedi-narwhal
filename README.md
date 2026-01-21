@@ -1,4 +1,4 @@
-u# GDIM32 In Class Activities
+# GDIM32 In Class Activities
 
 ## Week 1
 ### Activity 1: 
