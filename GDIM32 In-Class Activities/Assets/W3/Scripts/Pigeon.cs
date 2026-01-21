@@ -10,6 +10,8 @@ public class Pigeon : MonoBehaviour
 
     // (1) add a member variable to represent the Pigeon's state
     
+    private MovementState _currentactivity;
+    
 
     void Update()
     {
@@ -22,7 +24,14 @@ public class Pigeon : MonoBehaviour
     // - otherwise, it should be Idle
     private void UpdateState ()
     {
-        
+        if (Input.GetKey(KeyCode.A))
+        {
+            _currentactivity=MovementState.Flying;
+        }
+        else
+        {
+            _currentactivity=MovementState.Idle;
+        }
     }
 
     // (3) fill in this method to update the pigeon's animation based on its state
@@ -31,7 +40,16 @@ public class Pigeon : MonoBehaviour
     // use a Switch statement!
     private void UpdateAppearance()
     {
-        
+        switch (_currentactivity)
+        {
+            case MovementState.Flying:
+                PlayFlyAnimation();
+                break;
+            case MovementState.Idle:
+                PlayIdleAnimation();
+                break;
+
+        }
     }
 
     private void PlayFlyAnimation () {
