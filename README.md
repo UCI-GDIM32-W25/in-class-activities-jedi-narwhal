@@ -37,7 +37,8 @@ My partner is named Minjoo.
 ### Activity 1 and Activity 2:
 all code was pushed to the repo.
 ### Activity 3:
-![IMG_4EB6424F25B5-1](https://github.com/user-attachments/assets/6b05a503-1373-4067-ae11-d2d36354feb6)
+![IMG_2D62A49370B7-1](https://github.com/user-attachments/assets/b3e67adb-67c4-442b-a934-9d237809e05f)
+
 
 
 
