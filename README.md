@@ -39,6 +39,19 @@ all code was pushed to the repo.
 ### Activity 3:
 ![IMG_2D62A49370B7-1](https://github.com/user-attachments/assets/b3e67adb-67c4-442b-a934-9d237809e05f)
 
+ ## Week 4
+ ### Activity 0: 
+My partner is named Minjoo.
+### Activity 1:
+When i run the game, there is only one locator gameobject with the locator script. This is because the rest of the rest of them are destroyed. 
+### Activity 2:
+![IMG_9032616B385C-1](https://github.com/user-attachments/assets/c8901464-357d-4fb2-b1a1-4f1e334823a0)
+
+### Activity 3:
+[MG4 commit history](https://github.com/jedi-narwhal/HW4/commits/main/) 
+
+I setup my unity project in the editor. I also imported the sprites in the unity editor. In addition, I setup the player gameObject in the scene with the sprite, colliders, and rigidbody.
+
 
 
 
