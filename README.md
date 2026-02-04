@@ -58,7 +58,7 @@ I feel like the design it ok. Some things I would do different is split the clas
 ### Activity 2:
 In demo 2, the MVC pattern is explore. The model part is tunable in the inspector, the designer  can tune the game data in the inspector because scriptable objects can hold game data. The view part is the sprite on the screen with the dialogue. The controller is the code setting up for the data to be tuned in the inspector. 
 ### Activity 3:
-- Inheritabnce:muliple beats share some actions
+- Inheritance:muliple beats share some actions
 - Finite State Machine: Need to update the state based on action
 - Singleton: calculate score ,make ui show up, audio
 ### Activity 4:
