@@ -1,4 +1,4 @@
-# GDIM32 In Class Activities
+e# GDIM32 In Class Activities
 
 ## Week 1
 ### Activity 1: 
@@ -56,7 +56,12 @@ I setup my unity project in the editor. I also imported the sprites in the unity
 ### Activity 1:
 I feel like the design it ok. Some things I would do different is split the classes that deal with inheritance into different scripts so that it is more organized. Specifcally, I would seperate them all out so each parent gets their own script and each child gets their own script. I would also find a way not to declare _durability twice and serialize this. 
 ### Activity 2:
+In demo 2, the MVC pattern is explore. The model part is tunable in the inspector, the designer  can tune the game data in the inspector because scriptable objects can hold game data. The view part is the sprite on the screen with the dialogue. The controller is the code setting up for the data to be tuned in the inspector. 
 ### Activity 3:
+Inheritabnce:muliple beats share some actions
+Finite State Machine: Need to update the state based on action
+Singleton: calculate score ,make ui show up, audio
 ### Activity 4:
+Attendance: Sonia Mangat, Minjoo Shin, Milla Lucido
 
 
