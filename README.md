@@ -52,6 +52,11 @@ When i run the game, there is only one locator gameobject with the locator scrip
 
 I setup my unity project in the editor. I also imported the sprites in the unity editor. In addition, I setup the player gameObject in the scene with the sprite, colliders, and rigidbody.
 
-
+## Week 5
+### Activity 1:
+I feel like the design it ok. Some things I would do different is split the classes that deal with inheritance into different scripts so that it is more organized. Specifcally, I would seperate them all out so each parent gets their own script and each child gets their own script. I would also find a way not to declare _durability twice and serialize this. 
+### Activity 2:
+### Activity 3:
+### Activity 4:
 
 
