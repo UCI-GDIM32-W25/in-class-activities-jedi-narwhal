@@ -63,5 +63,6 @@ Finite State Machine: Need to update the state based on action
 Singleton: calculate score ,make ui show up, audio
 ### Activity 4:
 Attendance: Sonia Mangat, Minjoo Shin, Milla Lucido
+[Final Draft Plan](https://docs.google.com/document/d/1t76iuo2Br_0iJsKgst12nwN4ChwI5BFe61iVY1-cFXg/edit?usp=sharing) 
 
 
