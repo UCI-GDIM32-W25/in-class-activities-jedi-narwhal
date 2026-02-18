@@ -94,10 +94,12 @@ Attendance: Sonia Mangat, Minjoo Shin, Milla Lucido
  
  Milla: Building scene and uploading assets
 
- [Task document](https://docs.google.com/document/d/1OFqRcPZ5ifyW1PyqHkWC3omZ_qQ_pCy577yJh6sZSFs/edit?usp=sharing)
+ [Task document...Tracker under document tab](https://docs.google.com/document/d/1OFqRcPZ5ifyW1PyqHkWC3omZ_qQ_pCy577yJh6sZSFs/edit?usp=sharing)
 
  ### Activity #5:
- 
+
+  [commit history](https://github.com/jedi-narwhal/GDIM32-Final/commits/main/)
+
  
  
  
