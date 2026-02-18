@@ -87,7 +87,7 @@ Attendance: Sonia Mangat, Minjoo Shin, Milla Lucido
  ### Activity #3: Final Breakdown
 ![ final breakdown](https://github.com/user-attachments/assets/94bf3b52-8392-4ded-9196-023030ff0c1f)
 
- ### Activity #4:
+ ### Activity #4: Tasks with List
  Sonia: Player and item script
  
  Minjoo: setting up UI
@@ -96,7 +96,7 @@ Attendance: Sonia Mangat, Minjoo Shin, Milla Lucido
 
  [Task document...Tracker under document tab](https://docs.google.com/document/d/1OFqRcPZ5ifyW1PyqHkWC3omZ_qQ_pCy577yJh6sZSFs/edit?usp=sharing)
 
- ### Activity #5:
+ ### Activity #5: Commit History
 
   [commit history](https://github.com/jedi-narwhal/GDIM32-Final/commits/main/)
 
