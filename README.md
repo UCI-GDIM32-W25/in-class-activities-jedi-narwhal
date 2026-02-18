@@ -87,7 +87,7 @@ Attendance: Sonia Mangat, Minjoo Shin, Milla Lucido
  ### Activity #3: Final Breakdown
 ![ final breakdown](https://github.com/user-attachments/assets/94bf3b52-8392-4ded-9196-023030ff0c1f)
 
- ### Activity #4: Tasks with List
+ ### Activity #4: Tasks with Tracker
  Sonia: Player and item script
  
  Minjoo: setting up UI
