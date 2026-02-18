@@ -84,8 +84,7 @@ Attendance: Sonia Mangat, Minjoo Shin, Milla Lucido
  ### Activity #2: Attendance
  Attendance: Sonia Mangat, Milla Lucido, Minjoo Shin
  ### Activity #3: Final Breakdown
-![IMG_2D62A49370B7-1](<img width="1464" height="1098" alt="image" src="https://github.com/user-attachments/assets/fe33a9ca-64ae-4e27-9515-7056fbe89bfc" />
-)
+![IMG_2D62A49370B7-1](![breakdown](https://github.com/user-attachments/assets/94bf3b52-8392-4ded-9196-023030ff0c1f)
 
  ### Activity #4:
  Sonia: Player and item script
