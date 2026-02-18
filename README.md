@@ -70,13 +70,29 @@ Attendance: Sonia Mangat, Minjoo Shin, Milla Lucido
  ### Activity #1-Tool Demo
  - Merge Conflicts: Open in VS Code. Edit to desire to solve merge conflict and then commit it. WE can use this in our project to solve issues in our code where someone wrote the same things in the methods.
  - Unity Profiler: Go to window then analysis then profiler. If there is a chart, that means it is bad. You can check if it was your code or someting wrong with unity physics. Phyics problems may include using the wrong colider. Method problems include using too many debug logs and  using get compontent and member variables in Update. We can use this in our project to check to see what is causing a lag in our game if we feel like it is working slowly. We can check if it is our unity methods or unity components.
- -  Gizmos: Create Gizmos script with the specific gizmos you want. Attach it as a component to the gamobjects you want. Gizmos are only visable in scene view. Velocity gizmo can show riegebody's velocity, shows which which direction ridgebody moves in. Use it to viualize vectors, to show clicks, it is basically a physics problemsolving tool. We can use this in our project to see if an item is aquired and picked up
+ -  Gizmos: Create Gizmos script with the specific gizmos you want. Attach it as a component to the gamobjects you want. Gizmos are only visable in scene view. Velocity gizmo can show ridgebody's velocity, shows which which direction ridgebody moves in. Use it to viualize vectors, to show clicks, it is basically a physics problemsolving tool. We can use this in our project to see if an item is aquired and picked up
  - Breakpoints: Used to not know what is going on. Put breakpoint where error is. Run UNity and variable will be active. Hover over varaible to see which is null. Call stack shows methods call to land to you the way you are her. We can use this in our project to debug our code, specifically to makes sure a item is clicked or our singleton works.
  ### Activity #2: Attendance
  Attendance: Sonia Mangat, Milla Lucido
  
  [Final Draft Plan](https://docs.google.com/document/d/1t76iuo2Br_0iJsKgst12nwN4ChwI5BFe61iVY1-cFXg/edit?usp=sharing) 
 
+
+ ## Week 7
+ ### Activity #1- Demo Notes
+ NPC and player: you can use raycasting and vectors to show interactions with NPCs. The finite state machine design pattern used to determine state of proximity to the duck and the duck can update accordingly. Raycast is throwing a ray into a scene and seeing if it hits something. You can use a gizmo to draw a raycast. You can see raycast results using hitinfor. If the tree blocks the raycast, the hitinfo is where the raycast hits in order to make sure the line if sight succeeded. Little dots when contact with obstacles (sphere cast), used for NPC's to see their movement. Sphere casts are better than raycast for collisions.
+ ### Activity #2: Attendance
+ Attendance: Sonia Mangat, Milla Lucido, Minjoo Shin
+ ### Activity #3: Final Breakdown
+![IMG_2D62A49370B7-1](<img width="1464" height="1098" alt="image" src="https://github.com/user-attachments/assets/fe33a9ca-64ae-4e27-9515-7056fbe89bfc" />
+)
+
+ ### Activity #4:
+ Sonia: Player and item script
+ Minjoo: setting up UI
+ Milla: Building scene and uploading assets
+
+ ### Activity #5:
  
  
  
