@@ -83,8 +83,9 @@ Attendance: Sonia Mangat, Minjoo Shin, Milla Lucido
  NPC and player: you can use raycasting and vectors to show interactions with NPCs. The finite state machine design pattern used to determine state of proximity to the duck and the duck can update accordingly. Raycast is throwing a ray into a scene and seeing if it hits something. You can use a gizmo to draw a raycast. You can see raycast results using hitinfor. If the tree blocks the raycast, the hitinfo is where the raycast hits in order to make sure the line if sight succeeded. Little dots when contact with obstacles (sphere cast), used for NPC's to see their movement. Sphere casts are better than raycast for collisions.
  ### Activity #2: Attendance
  Attendance: Sonia Mangat, Milla Lucido, Minjoo Shin
+ 
  ### Activity #3: Final Breakdown
-![IMG_2D62A49370B7-1](![breakdown](https://github.com/user-attachments/assets/94bf3b52-8392-4ded-9196-023030ff0c1f)
+![ final breakdown](https://github.com/user-attachments/assets/94bf3b52-8392-4ded-9196-023030ff0c1f)
 
  ### Activity #4:
  Sonia: Player and item script
@@ -92,6 +93,7 @@ Attendance: Sonia Mangat, Minjoo Shin, Milla Lucido
  Milla: Building scene and uploading assets
 
  ### Activity #5:
+ 
  
  
  
