@@ -100,6 +100,37 @@ Attendance: Sonia Mangat, Minjoo Shin, Milla Lucido
 
   [commit history](https://github.com/jedi-narwhal/GDIM32-Final/commits/main/)
 
+  ## Week 8
+ ### Activity #1- Demo Notes
+ - post processing effects are shaders that affect the way you loook of your entire screen
+ - changes everything on screen
+ - install package in package manager info
+ - make new layer and add component of post-processing volume
+ - test effect after getting it
+ ### Activity #2: Attendance
+ Attendance: Sonia Mangat, Milla Lucido, Minjoo Shin
+ 
+ ### Activity #3: playtest
+ Notes:
+- Change FOV for camera (reduce)
+- Reduce mouse sensitivity
+- Make players unable to walk on furniture 
+- Good movement
+- Unity play has good mouse sensitivity, figure out how to make itch have good sensitivity
+
+ ### Activity #4: Tasks with Tracker
+ Sonia: Player and item script
+ 
+ Minjoo: setting up UI
+ 
+ Milla: Building scene and uploading assets
+
+ [Task document...Tracker under document tab](https://docs.google.com/document/d/1OFqRcPZ5ifyW1PyqHkWC3omZ_qQ_pCy577yJh6sZSFs/edit?usp=sharing)
+
+ ### Activity #5: Commit History
+
+  [commit history](https://github.com/jedi-narwhal/GDIM32-Final/commits/main/)
+
  
  
  
