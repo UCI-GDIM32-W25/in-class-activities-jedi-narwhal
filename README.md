@@ -129,6 +129,8 @@ Milla: Audio stuff, interior design, lights
 
   [commit history](https://github.com/jedi-narwhal/GDIM32-Final/commits/main/)
 
+I set up the scripts for the items and each item specfically such as the battery, door, and key. I also finished the bunny script which sets a differnt animation of the bunny state to be played depending on its mood. The bunny script also includes a finite state machine.
+
  
  
  
