@@ -118,12 +118,10 @@ Attendance: Sonia Mangat, Minjoo Shin, Milla Lucido
 - Good movement
 - Unity play has good mouse sensitivity, figure out how to make itch have good sensitivity
 
- ### Activity #4: Tasks with Tracker
- Sonia: Player and item script
- 
- Minjoo: setting up UI
- 
- Milla: Building scene and uploading assets
+ ### Activity #4: Tasks for today and Tracker
+Sonia: Player Script
+Minjoo: UI Script
+Milla: Audio stuff, interior design, lights
 
  [Task document...Tracker under document tab](https://docs.google.com/document/d/1OFqRcPZ5ifyW1PyqHkWC3omZ_qQ_pCy577yJh6sZSFs/edit?usp=sharing)
 
