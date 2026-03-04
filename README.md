@@ -131,6 +131,38 @@ Milla: Audio stuff, interior design, lights
 
 I set up the scripts for the items and each item specfically such as the battery, door, and key. I also finished the bunny script which sets a differnt animation of the bunny state to be played depending on its mood. The bunny script also includes a finite state machine.
 
+
+ ## Week 9
+ ### Activity #1- Demo Notes
+- branching diaglouge options
+- different number per branch
+- number of options can change
+- different thinks that you say, have different things that come next
+- not harding coding what diagloue can come next
+- allows for flexiblity during scaling
+- nodes can reference other nodes
+- saying in data what options are (tunable in inspector)
+- 
+ ### Activity #2: Attendance
+ Attendance: Sonia Mangat, Milla Lucido, Minjoo Shin
+ 
+ ### Activity #3: playtest
+ Notes:
+- UI anchor problem
+- UI icon shows up
+- mouse sensitivity
+- dialogues or clues to do the task
+
+ ### Activity #4: Tasks update
+ We are actually pretty good on our project and a lot of it now just comes down to putting in the last item and audio in the code. The timer needs to be fixed up a bit, the dialogue tree will be the thing that gets the rest of the project to make sense and be functional as a game and not a walking simulator. Because the dialogue tree is going to be what gives all the quests and makes the objects have an actual use in the game, we are good with everything else. 
+Right now, the audio needs to be put in the right interaction spots, the dialogue tree needs to be made for the NPC, and the timer needs to be more fine tuned. The animations for the key and battery have to be made better and they need to be hidden. Ultimately, our project scale was pretty good considering that a lot of what we need now is quick fixes and our dialogue tree and then all credit should be good.
+
+
+ ### Activity #5: Commit History
+
+  [commit history](https://github.com/jedi-narwhal/GDIM32-Final/commits/main/)
+
+I fixed the scripts for the items and each item specfically such as the battery, door, and key. To explain, the Pickup() was empty and the child classes weren't inheriting anything. I changed this so the child classs ( the specifc items inherit something).
  
  
  
