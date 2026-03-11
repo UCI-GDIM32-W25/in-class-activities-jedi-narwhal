@@ -166,7 +166,7 @@ I fixed the scripts for the items and each item specfically such as the battery,
 
 
  ## Week 10
- ### Attendance
+ ### Activity #1:Attendance
  Attendance: Sonia Mangat, Milla Lucido, Minjoo Shin
  
  ### Activity #2: playtest
