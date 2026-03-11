@@ -163,7 +163,28 @@ Right now, the audio needs to be put in the right interaction spots, the dialogu
   [commit history](https://github.com/jedi-narwhal/GDIM32-Final/commits/main/)
 
 I fixed the scripts for the items and each item specfically such as the battery, door, and key. To explain, the Pickup() was empty and the child classes weren't inheriting anything. I changed this so the child classs ( the specifc items inherit something).
+
+
+ ## Week 10
+ ### Attendance
+ Attendance: Sonia Mangat, Milla Lucido, Minjoo Shin
  
+ ### Activity #2: playtest
+ Notes:
+- UI anchor problem
+- UI icon shows up
+- mouse sensitivity
+- dialogues or clues to do the task
+
+ ### Activity #3: Tasks update
+ We are actually pretty good on our project and a lot of it now just comes down to putting in the last item and audio in the code. Our completion this week includes the branching dialogue system both in the inspector and the code. I programmed the audio and hooked it up in the inspetor. Minjoo worked on the dialogue UI buttons and dialogue boxes & UI manager system. This is where we are suppose to be. We are also a little ahead of schedule. In terms of scope we are doing really well, the only thing that we decided to take out is one audio track.
+
+
+ ### Activity #5: Commit History
+
+  [commit history](https://github.com/jedi-narwhal/GDIM32-Final/commits/main/)
+
+I created the audio manager script and hooked it up to the audio manager game objet in the inspector. I also set up the event system for this which is when and item is clicked, it will play a audio sound.
  
  
 
