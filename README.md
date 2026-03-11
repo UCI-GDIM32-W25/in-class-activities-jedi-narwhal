@@ -170,11 +170,13 @@ I fixed the scripts for the items and each item specfically such as the battery,
  Attendance: Sonia Mangat, Milla Lucido, Minjoo Shin
  
  ### Activity #2: playtest
- Notes:
-- UI anchor problem
-- UI icon shows up
-- mouse sensitivity
-- dialogues or clues to do the task
+Notes:
+Dialogue should be fixed
+Buttons’ anchor system is not correct; it should be fixed for the final version
+Game over screen is not working. Connect game over screen with the dialogue and the timer
+A timer should be implemented in the dialogue
+The stuffed animal gives tas → timer starts → if timer is over, game is over
+Progression after getting the battery: the dialogue doesn’t advance after getting the battery; it just repeats.
 
  ### Activity #3: Tasks update
  We are actually pretty good on our project and a lot of it now just comes down to putting in the last item and audio in the code. Our completion this week includes the branching dialogue system both in the inspector and the code. I programmed the audio and hooked it up in the inspetor. Minjoo worked on the dialogue UI buttons and dialogue boxes & UI manager system. This is where we are suppose to be. We are also a little ahead of schedule. In terms of scope we are doing really well, the only thing that we decided to take out is one audio track.
